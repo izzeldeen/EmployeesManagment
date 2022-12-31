@@ -1,0 +1,17 @@
+C:\Users\izzel\source\repos\EmployeeManagementSystem\Employee.DAL\bin\Release\net6.0\Employee.DAL.deps.json
+C:\Users\izzel\source\repos\EmployeeManagementSystem\Employee.DAL\bin\Release\net6.0\Employee.DAL.runtimeconfig.json
+C:\Users\izzel\source\repos\EmployeeManagementSystem\Employee.DAL\bin\Release\net6.0\Employee.DAL.dll
+C:\Users\izzel\source\repos\EmployeeManagementSystem\Employee.DAL\bin\Release\net6.0\Employee.DAL.pdb
+C:\Users\izzel\source\repos\EmployeeManagementSystem\Employee.DAL\bin\Release\net6.0\Employee.Domain.dll
+C:\Users\izzel\source\repos\EmployeeManagementSystem\Employee.DAL\bin\Release\net6.0\Employee.Domain.pdb
+C:\Users\izzel\source\repos\EmployeeManagementSystem\Employee.DAL\obj\Release\net6.0\Employee.DAL.csproj.AssemblyReference.cache
+C:\Users\izzel\source\repos\EmployeeManagementSystem\Employee.DAL\obj\Release\net6.0\Employee.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izzel\source\repos\EmployeeManagementSystem\Employee.DAL\obj\Release\net6.0\Employee.DAL.AssemblyInfoInputs.cache
+C:\Users\izzel\source\repos\EmployeeManagementSystem\Employee.DAL\obj\Release\net6.0\Employee.DAL.AssemblyInfo.cs
+C:\Users\izzel\source\repos\EmployeeManagementSystem\Employee.DAL\obj\Release\net6.0\Employee.DAL.csproj.CoreCompileInputs.cache
+C:\Users\izzel\source\repos\EmployeeManagementSystem\Employee.DAL\obj\Release\net6.0\Employee.DAL.csproj.CopyComplete
+C:\Users\izzel\source\repos\EmployeeManagementSystem\Employee.DAL\obj\Release\net6.0\Employee.DAL.dll
+C:\Users\izzel\source\repos\EmployeeManagementSystem\Employee.DAL\obj\Release\net6.0\refint\Employee.DAL.dll
+C:\Users\izzel\source\repos\EmployeeManagementSystem\Employee.DAL\obj\Release\net6.0\Employee.DAL.pdb
+C:\Users\izzel\source\repos\EmployeeManagementSystem\Employee.DAL\obj\Release\net6.0\Employee.DAL.genruntimeconfig.cache
+C:\Users\izzel\source\repos\EmployeeManagementSystem\Employee.DAL\obj\Release\net6.0\ref\Employee.DAL.dll
